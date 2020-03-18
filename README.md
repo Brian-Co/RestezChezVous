@@ -4,4 +4,4 @@ Cette application permet de signer et de générer une attestation de déplaceme
 
 Aucune donnée personnelle n'est collectée. L'application ne se connecte jamais à internet.
 
-![Image](https://github.com/Brian-Co/RestezChezVous/blob/master/Screenshots.PNG)
+![Image](https://github.com/Brian-Co/RestezChezVous/blob/master/Screenshots.png)

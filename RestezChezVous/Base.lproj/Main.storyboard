@@ -236,7 +236,7 @@
                                     <constraint firstItem="nH2-xS-LNd" firstAttribute="top" secondItem="X00-mU-2MO" secondAttribute="bottom" constant="8" id="et7-jU-4fW"/>
                                 </constraints>
                             </view>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Veuilliez signer :" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xYI-1a-waF">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Veuillez signer :" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xYI-1a-waF">
                                 <rect key="frame" x="50" y="169" width="315" height="53"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="53" id="yhP-kk-NpG"/>
