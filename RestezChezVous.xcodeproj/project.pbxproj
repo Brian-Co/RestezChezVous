@@ -7,15 +7,24 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D4C230592422DAE500DAC5B3 /* CertificateVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C230582422DAE500DAC5B3 /* CertificateVC.swift */; };
 		D4F64F6524221B7100FCA7E4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F6424221B7100FCA7E4 /* AppDelegate.swift */; };
 		D4F64F6724221B7100FCA7E4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F6624221B7100FCA7E4 /* SceneDelegate.swift */; };
 		D4F64F6924221B7100FCA7E4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F6824221B7100FCA7E4 /* ViewController.swift */; };
 		D4F64F6C24221B7100FCA7E4 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4F64F6A24221B7100FCA7E4 /* Main.storyboard */; };
 		D4F64F6E24221B7200FCA7E4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D4F64F6D24221B7200FCA7E4 /* Assets.xcassets */; };
 		D4F64F7124221B7200FCA7E4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D4F64F6F24221B7200FCA7E4 /* LaunchScreen.storyboard */; };
+		D4F64F792422285A00FCA7E4 /* MotiveView.xib in Resources */ = {isa = PBXBuildFile; fileRef = D4F64F782422285A00FCA7E4 /* MotiveView.xib */; };
+		D4F64F7B2422295F00FCA7E4 /* MotiveView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F7A2422295F00FCA7E4 /* MotiveView.swift */; };
+		D4F64F7D24222C1F00FCA7E4 /* Motive.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F7C24222C1F00FCA7E4 /* Motive.swift */; };
+		D4F64F8024225E0800FCA7E4 /* SignatureVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F7F24225E0800FCA7E4 /* SignatureVC.swift */; };
+		D4F64F8224225E4200FCA7E4 /* Canva.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F8124225E4200FCA7E4 /* Canva.swift */; };
+		D4F64F862422764100FCA7E4 /* UIView+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F852422764100FCA7E4 /* UIView+Extensions.swift */; };
+		D4F64F88242286DE00FCA7E4 /* UserInfosVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4F64F87242286DE00FCA7E4 /* UserInfosVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		D4C230582422DAE500DAC5B3 /* CertificateVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CertificateVC.swift; sourceTree = "<group>"; };
 		D4F64F6124221B7100FCA7E4 /* RestezChezVous.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = RestezChezVous.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D4F64F6424221B7100FCA7E4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		D4F64F6624221B7100FCA7E4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -24,6 +33,13 @@
 		D4F64F6D24221B7200FCA7E4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D4F64F7024221B7200FCA7E4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D4F64F7224221B7200FCA7E4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D4F64F782422285A00FCA7E4 /* MotiveView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = MotiveView.xib; sourceTree = "<group>"; };
+		D4F64F7A2422295F00FCA7E4 /* MotiveView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MotiveView.swift; sourceTree = "<group>"; };
+		D4F64F7C24222C1F00FCA7E4 /* Motive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Motive.swift; sourceTree = "<group>"; };
+		D4F64F7F24225E0800FCA7E4 /* SignatureVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignatureVC.swift; sourceTree = "<group>"; };
+		D4F64F8124225E4200FCA7E4 /* Canva.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Canva.swift; sourceTree = "<group>"; };
+		D4F64F852422764100FCA7E4 /* UIView+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UIView+Extensions.swift"; sourceTree = "<group>"; };
+		D4F64F87242286DE00FCA7E4 /* UserInfosVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserInfosVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +53,43 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D4C230542422B19E00DAC5B3 /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				D4F64F6824221B7100FCA7E4 /* ViewController.swift */,
+				D4F64F87242286DE00FCA7E4 /* UserInfosVC.swift */,
+				D4F64F7F24225E0800FCA7E4 /* SignatureVC.swift */,
+				D4C230582422DAE500DAC5B3 /* CertificateVC.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+		D4C230552422B1B700DAC5B3 /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				D4F64F852422764100FCA7E4 /* UIView+Extensions.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		D4C230562422B1CE00DAC5B3 /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				D4F64F7A2422295F00FCA7E4 /* MotiveView.swift */,
+				D4F64F782422285A00FCA7E4 /* MotiveView.xib */,
+				D4F64F8124225E4200FCA7E4 /* Canva.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		D4C230572422B20900DAC5B3 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				D4F64F7C24222C1F00FCA7E4 /* Motive.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
 		D4F64F5824221B7100FCA7E4 = {
 			isa = PBXGroup;
 			children = (
@@ -58,7 +111,10 @@
 			children = (
 				D4F64F6424221B7100FCA7E4 /* AppDelegate.swift */,
 				D4F64F6624221B7100FCA7E4 /* SceneDelegate.swift */,
-				D4F64F6824221B7100FCA7E4 /* ViewController.swift */,
+				D4C230572422B20900DAC5B3 /* Model */,
+				D4C230542422B19E00DAC5B3 /* ViewControllers */,
+				D4C230562422B1CE00DAC5B3 /* Views */,
+				D4C230552422B1B700DAC5B3 /* Extensions */,
 				D4F64F6A24221B7100FCA7E4 /* Main.storyboard */,
 				D4F64F6D24221B7200FCA7E4 /* Assets.xcassets */,
 				D4F64F6F24221B7200FCA7E4 /* LaunchScreen.storyboard */,
@@ -127,6 +183,7 @@
 			files = (
 				D4F64F7124221B7200FCA7E4 /* LaunchScreen.storyboard in Resources */,
 				D4F64F6E24221B7200FCA7E4 /* Assets.xcassets in Resources */,
+				D4F64F792422285A00FCA7E4 /* MotiveView.xib in Resources */,
 				D4F64F6C24221B7100FCA7E4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,8 +196,15 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4F64F6924221B7100FCA7E4 /* ViewController.swift in Sources */,
+				D4F64F88242286DE00FCA7E4 /* UserInfosVC.swift in Sources */,
+				D4F64F7D24222C1F00FCA7E4 /* Motive.swift in Sources */,
 				D4F64F6524221B7100FCA7E4 /* AppDelegate.swift in Sources */,
+				D4C230592422DAE500DAC5B3 /* CertificateVC.swift in Sources */,
+				D4F64F862422764100FCA7E4 /* UIView+Extensions.swift in Sources */,
+				D4F64F7B2422295F00FCA7E4 /* MotiveView.swift in Sources */,
+				D4F64F8224225E4200FCA7E4 /* Canva.swift in Sources */,
 				D4F64F6724221B7100FCA7E4 /* SceneDelegate.swift in Sources */,
+				D4F64F8024225E0800FCA7E4 /* SignatureVC.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
